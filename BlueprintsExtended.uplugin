@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "BlueprintsExtended",
+	"Description": "A bunch of helpful blueprint functions",
+	"Category": "Blueprints",
+	"CreatedBy": "Aashish Vasudevan",
+	"CreatedByURL": "www.aashishvasudevan.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BlueprintsExtended",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
