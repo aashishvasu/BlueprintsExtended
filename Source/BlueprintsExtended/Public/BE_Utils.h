@@ -9,7 +9,7 @@
 /**
  * 
  */
-UCLASS()
+UCLASS(BlueprintType)
 class BLUEPRINTSEXTENDED_API UBE_Utils : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
